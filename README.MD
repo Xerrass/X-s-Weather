@@ -24,7 +24,7 @@ git clone https://github.com/Xerrass/X-s-Weather-Athena.git
 
 4. Go to https://home.openweathermap.org/api_keys. Create an account and get an API key. Put that in to the index.ts
 
-5. Go to: https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=30&lon=-20&zoom=5
+5. Go to: https://openweathermap.org/weathermap
 And select the location you want to use as your source for the weather.
 
 6. For new accounts it can take up to 6 hours for your API KEy to activate.
