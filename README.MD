@@ -30,3 +30,7 @@ And select the location you want to use as your source for the weather.
 6. For new accounts it can take up to 6 hours for your API KEy to activate.
 
 7. Start the Server and enjoy your syncced Weather
+
+# Kudos
+Code is from tastydev -> repo can be found here!
+https://github.com/tastydev/weatherDateSync-altv
